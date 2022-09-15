@@ -1,6 +1,6 @@
  I build this app to help me create a JSON File 
  with an Array of words and id for each word.
- I will use this JSON File to generate a words List 
+ I will use this JSON File to generate a list of words
  for a Wordle-Clone.
  
  For this Project I used the package 'an-array-of-english-words'
